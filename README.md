@@ -19,7 +19,7 @@ I’m a final-year AI student at university, coding in Java, Python, and C#. I�
 [![](https://visitcount.itsvg.in/api?id=mohannad-121&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal]([https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/mabuayyash33](https://www.paypal.com/paypalme/mbuayyash33?v=1&utm_source=unp&utm_medium=email&utm_campaign=RT000481&utm_unptid=8e98a06e-e255-11f0-805f-9d3522855e47&ppid=RT000481&cnac=JO&rsta=ar_EG%28ar-JO%29&cust=9VMJARVN8GLQG&unptid=8e98a06e-e255-11f0-805f-9d3522855e47&calc=c9b408b3dce33&unp_tpcid=ppme-social-business-profile-created&page=main%3Aemail%3ART000481&pgrp=main%3Aemail&e=cl&mchn=em&s=ci&mail=sys&appVersion=1.374.0&tenant_name=PAYPAL&xt=145585%2C154413%2C104038&link_ref=paypalme_mbuayyash33)) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/mbuayyash33) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
